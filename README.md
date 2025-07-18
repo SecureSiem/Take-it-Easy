@@ -1,6 +1,6 @@
 # 🔍 Make-It-Easy-Scanner
 
-**Make-It-Easy-Scanner** is an advanced Nmap-based network scanner with a user-friendly interactive menu in the terminal. Written in Bash, it offers over 25+ powerful scanning options—from basic ping scans to vulnerability assessments and firewall evasion techniques.
+**Make-It-Easy-Scanner** is an advanced Nmap-based network scanner with a user-friendly interactive menu in the terminal. Written in Bash, it offers over 30+ powerful scanning options—from basic ping scans to vulnerability assessments and firewall evasion techniques.
 
 ---
 
