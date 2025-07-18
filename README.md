@@ -48,7 +48,7 @@ chmod +x Make-It-Easy-Scanner.sh
 ```
 
 ## 🧠 Author Info
-- 👤 Author: Vaibhav Handekar  Ig: vaibhavv_19 
+- 👤 Author: Vaibhav Handekar  Ig: vaibhavv_19 Linkedin: https://www.linkedin.com/in/vaibhav-handekar-b5668925a
 
 ## ⚠️ Disclaimer
 - This tool is for educational and authorized testing purposes only.
